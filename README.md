@@ -286,6 +286,14 @@
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanya-suddamalla&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep%20Learning%20Keep%20Building!&fontSize=24&fontAlignY=70&animation=twinkling&fontColor=fff" alt="Footer" />
 </div>
@@ -296,11 +304,10 @@
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-💙-blue?style=for-the-badge" alt="Thanks"/>
   <br><br>
   <img src="https://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  
 </div>
 
 <div align="center">
   <br>
   <p><b>© 2026 Chaitanya Suddamalla | Software Developer</b></p>
   <p>Made with ❤️, ☕ and continuous learning</p>
-</div>
+</div>        
